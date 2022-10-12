@@ -1,4 +1,4 @@
-13378
+13379
 104C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\terser\lib\compress\drop-side-effect-free.js133081084411716501 0
 105C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm5\internal\testing\ColdObservable.js133081069371399551 0
 103C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm5\internal\operators\expand.js.map133081069411398556 0
@@ -52,7 +52,7 @@
 91C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\caniuse-lite\data\regions\PF.js133081084426819898 0
 85C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\operator\debounce.js133081069372389777 0
 82C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lodash\_mapCacheGet.js133081069377891025 0
-55C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\index.js133099179153308144 0
+55C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\index.js133099264777423072 0
 92C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\mongoose\lib\types\DocumentArray133094902181296210 1
 94C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\table\dist\validateStreamConfig.js133081069365668263 0
 78C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\bytes\package.json133094040598100220 0
@@ -64,13 +64,13 @@
 76C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lodash\toJSON.js133081069402396523 0
 87C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\operators\switchMap.js133081069402226487 0
 103C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\internal\operators\ignoreElements.d.ts133081069426872036 0
-51C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\.env133099251220925453 0
+51C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\.env133100141465392123 0
 109C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\internal\scheduler\VirtualTimeScheduler.d.ts133081069434428145 0
 108C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\caniuse-lite\data\features\css-default-pseudo.js133081084420258422 0
 74C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\source-map\lib133081084409936112 1
 79C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\src\Subject.ts133081069431887579 0
 99C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm5\internal\observable\range.js133081069397515429 0
-51C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\dist133099247678628465 1
+51C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\dist133100115331067336 1
 95C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\htmlparser2\lib\WritableStream.d.ts133081069375880558 0
 100C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\table\dist\mapDataUsingRowHeightIndex.js133081069364918094 0
 103C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\@parcel\compressor-raw\lib\RawCompressor.js133081084433801471 0
@@ -102,6 +102,7 @@
 109C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\caniuse-lite\data\features\css-text-align-last.js133081084421068602 0
 61C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\.gitattributes133086942237101168 0
 92C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\node-gyp-build-optional-packages133081084410556235 1
+55C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\Procfile133100080694781868 0
 84C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\abortcontroller-polyfill133081069394084660 1
 75C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\which\README.md133081069348344374 0
 74C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\yaml\README.md133081069367688727 0
@@ -183,7 +184,7 @@
 64C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\package-lock.json133094902185637183 0
 89C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\@parcel\packager-html\LICENSE133081084425309556 0
 90C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\operator\timestamp.js.map133081069419970481 0
-59C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\package.json133094902185647188 0
+59C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\package.json133100078749986963 0
 86C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\fast-levenshtein\README.md133081069441419721 0
 94C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\operator\sequenceEqual.js.map133081069417309880 0
 112C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm2015\internal\util\subscribeToObservable.js133081069401606348 0
@@ -255,7 +256,7 @@
 92C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\operators\bufferWhen.js.map133081069408437894 0
 89C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\table\dist\makeConfig.js.flow133081069356656241 0
 93C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\uri-js\dist\esnext\schemes\urn.js133081069352045199 0
-60C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\server\app.js133099245874245356 0
+60C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\server\app.js133100092905625336 0
 98C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\internal\util\canReportError.d.ts133081069422050951 0
 87C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\add\observable\if.d.ts133081069426722000 0
 60C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\server\models133094913916515069 1
@@ -449,6 +450,13 @@
 65C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\tslib133081069356116114 1
 68C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\anymatch133094049119313648 1
 82C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\signal-exit\signals.js133081069351685122 0
+91C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\caniuse-lite\data\regions\NI.js133081084426489829 0
+89C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\terser\lib\compress\inline.js133081084412896760 0
+76C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\file-entry-cache133081069377821007 1
+102C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\table\dist\calculateRowHeightIndex.js.flow133081069351915171 0
+73C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lmdb\index.js133081084415517353 0
+89C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\operators\skipUntil.d.ts133081069431637523 0
+68C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\asynckit133087955631165004 1
 107C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\caniuse-lite\data\features\template-literals.js133081084427870131 0
 113C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm5\internal\scheduler\VirtualTimeScheduler.js133081069404777058 0
 107C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133081084432971283 0
@@ -459,13 +467,6 @@
 100C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\table\node_modules\astral-regex\index.js133081069423421261 0
 93C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\internal\operators\last.d.ts133081069427982283 0
 77C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\binary-extensions133094049119543699 1
-91C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\caniuse-lite\data\regions\NI.js133081084426489829 0
-89C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\terser\lib\compress\inline.js133081084412896760 0
-76C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\file-entry-cache133081069377821007 1
-102C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\table\dist\calculateRowHeightIndex.js.flow133081069351915171 0
-73C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lmdb\index.js133081084415517353 0
-89C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\operators\skipUntil.d.ts133081069431637523 0
-68C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\asynckit133087955631165004 1
 112C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\@parcel\codeframe\node_modules\ansi-styles\readme.md133081069346303911 0
 71C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\http-errors133094040598140229 1
 99C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm5\internal\util\applyMixins.js133081069364928106 0
@@ -729,8 +730,6 @@
 74C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\domelementtype133081084417837874 1
 67C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\nodemon133094049121238004 1
 97C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\src\internal\operators\concat.ts133081069423621299 0
-104C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\string-width\node_modules\ansi-regex\license133081069345353692 0
-111C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm5\internal\operators\defaultIfEmpty.js.map133081069409858201 0
 72C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\finalhandler133094040599800609 1
 109C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm2015\internal-compatibility\index.js.map133081069412368768 0
 70C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\domhandler133081084418448021 1
@@ -2506,7 +2505,7 @@
 118C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\tslib\test\validateModuleExportsMatchCommonJS\package.json133081069353415510 0
 106C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm2015\internal\operators\buffer.js.map133081069407487669 0
 77C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\tr46\package.json133094902176855214 0
-69C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\dist\index.3d214d75.js133099247678558452 0
+69C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\dist\index.3d214d75.js133100115331007323 0
 90C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\operators\throwIfEmpty.js133081069403456768 0
 104C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm5\internal\operators\toArray.js.map133081069419990488 0
 87C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\internal-compatibility133081069427212112 1
@@ -2563,9 +2562,9 @@
 76C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\timsort\index.js133081084409756061 0
 76C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\chardet\encoding133081069387283128 1
 80C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\timsort\package.json133081084409676035 0
-71C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\timsort\src133081084409886086 1
 127C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\@parcel\packager-js\node_modules\type-fest\source\partial-deep.d.ts133081069359096791 0
 103C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm2015\internal\util\toSubscriber.js133081069404426981 0
+71C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\timsort\src133081084409886086 1
 79C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\base-x\src\index.js133081069389533636 0
 84C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\timsort\build\timsort.js133081084409866079 0
 79C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\esprima\LICENSE.BSD133081069379261319 0
@@ -3223,6 +3222,8 @@
 107C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\string-width\node_modules\ansi-regex\index.d.ts133081069346944057 0
 105C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\string-width\node_modules\ansi-regex\index.js133081069345683770 0
 80C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\memory-pager\LICENSE133094902176715167 0
+104C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\string-width\node_modules\ansi-regex\license133081069345353692 0
+111C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\_esm5\internal\operators\defaultIfEmpty.js.map133081069409858201 0
 83C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lodash\_baseIteratee.js133081069370379325 0
 109C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\string-width\node_modules\ansi-regex\package.json133081069345943831 0
 83C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\ReplaySubject.d.ts133081069430127819 0
@@ -5666,7 +5667,7 @@
 90C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\src\operators\takeLast.ts133081069432757772 0
 84C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\nodemon\lib\cli\index.js133094049120735479 0
 91C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\src\operators\takeWhile.ts133081069432907810 0
-73C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\dist\index.3d214d75.js.map133099247678618459 0
+73C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\dist\index.3d214d75.js.map133100115331057336 0
 94C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\operators\throwIfEmpty.js.map133081069419570390 0
 90C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\internal\operators\zip.js133081069405417211 0
 90C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\rxjs\src\operators\throttle.ts133081069433007834 0
@@ -9390,8 +9391,8 @@
 77C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lodash\groupBy.js133081069393194463 0
 73C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lodash\has.js133081069393314484 0
 108C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\@swc\helpers\node_modules\tslib\modules\index.js133081084434841704 0
-74C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lodash\head.js133081069393374493 0
 78C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\htmlnano\README.md133081084423289111 0
+74C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lodash\head.js133081069393374493 0
 78C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lodash\includes.js133081069393474530 0
 75C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lodash\index.js133081069393504527 0
 77C:\Users\Nate\code\SavvyCoders\AugClassSPA2022\node_modules\lodash\indexOf.js133081069393554541 0
